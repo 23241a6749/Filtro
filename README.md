@@ -1,4 +1,7 @@
 # 📚 Filtro – Intelligent WhatsApp Filter for Academic Content
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Language](https://img.shields.io/badge/language-Kotlin-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 Filtro is a smart Android application built using Kotlin and Jetpack Compose that automatically filters and organizes academic content from WhatsApp messages. It helps students and professionals stay focused by extracting relevant study-related messages using NLP techniques.
 
